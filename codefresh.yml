@@ -1,0 +1,6 @@
+version: '1.0'
+steps:
+  test_mem_per_step:
+    image_name: verchol/cputest:latest
+    commands:
+      - npm start
