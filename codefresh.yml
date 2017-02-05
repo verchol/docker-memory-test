@@ -1,4 +1,5 @@
 version: '1.0'
+#steps
 steps:
   test_mem_per_step:
     image: verchol/memtest:latest
